@@ -1,3 +1,2 @@
-# vuewithasp
-VueJs frontend + Asp.Net Core backend
+# 🐈‍⬛ VueJs frontend + Asp.Net Core backend
 Run 'npm start' from terminal 😎
