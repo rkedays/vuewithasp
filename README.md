@@ -1,2 +1,2 @@
 # vuewithasp
-VueJs frontend  with Asp.Net Core backend for codespaces
+VueJs frontend + Asp.Net Core backend
