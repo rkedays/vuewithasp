@@ -1,9 +1,3 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
-  "postCreateCommand": "dotnet build backend/backend.csproj && cd frontend && npm install",
-  "customizations": {
-    "vscode": {
-      "extensions": ["octref.vetur"]
-    }
-  }
+{  
+  "postCreateCommand": "cd frontend && npm i"
 }
